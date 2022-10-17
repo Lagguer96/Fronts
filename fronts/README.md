@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `Front Waves` The first front
+
+This front have 4 div styles, the first is the most importan `class='box'`, because is the principal container, after have 3 div styles, `class='wave -one'`, `class='wave -two'`, `class='wave -three'`.
+
+### `Front Bubbles` The first front
+
+This Front have only 2 div, `class='bubbles'` and `class='bubble'`.
+
+### `Front Linear` The first front
+
+That Front is functional only with a body class.
+
+### `Front Canvas` The first front
+
+This Front have 2 div, the first is `id='canvas-shapes'` and the second is `class="content"`.
+
+### `Front Slider` The first front
+
+This Front have a only one div: `id='canvas'`.
+
+### `Front Line` The first front
+
+`id='canvas'`
+
+### `Front Jupiter` The first front
+
+`id='canvas_container'`
